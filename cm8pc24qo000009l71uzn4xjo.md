@@ -44,6 +44,34 @@ class Solution:
     * Space: O(1) — in-place modification
         
 
+### \[[**88\. Merge Sorted Array**](https://leetcode.com/problems/merge-sorted-array/)**\]**
+
+* Question Understanding
+    
+    * Merge two sorted arrays.
+        
+    * The trailing zeros in `nums1` represent empty spaces to be filled.
+        
+    * `nums1` has a total length of `m + n`, with the first `m` elements being valid.
+        
+    * `nums2` has a length of `n`.
+        
+
+```python
+class Solution:
+    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
+        for idx in range(m, len(nums1)):
+            nums1[idx] = nums2[idx - m]
+        nums1.sort()
+```
+
+* Time & Space Complexity
+    
+    * Time: O((m + n) log(m + n))
+        
+    * Space: O(1) — in-place modification
+        
+
 ## \[English\]
 
 ### \[Word\]
