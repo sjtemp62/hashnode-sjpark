@@ -2,7 +2,7 @@
 title: "Today I Learned (2025-03-25)"
 datePublished: Tue Mar 25 2025 06:25:04 GMT+0000 (Coordinated Universal Time)
 cuid: cm8o42rat000508lbga8r66bc
-slug: 2025-03-25
+slug: til-2025-03-25
 tags: algorithms, python, leetcode, til
 
 ---
