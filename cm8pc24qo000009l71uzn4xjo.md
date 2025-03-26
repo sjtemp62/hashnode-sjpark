@@ -94,6 +94,42 @@ class Solution:
         
     * **KR)** **(주장)** 강하게 주장하다, 단언하다, **(권한행사)** 권한/권력/영향력을 행사하다, 자신의 존재를 드러내다. **(프로그래밍)** 조건이 참인지 확인하고, 거짓이면 오류를 발생시킴
         
+* represent
+    
+* trail
+    
+* valid
+    
+* corridor
+    
+* freight
+    
+* be filled by
+    
+* be filled with
+    
+* mine
+    
+* environment
+    
+* significant
+    
+* have an impact on
+    
+* relate to
+    
+* topic
+    
+* address
+    
+* suffer
+    
+* issue
+    
+* work on
+    
+* would you like to
+    
 
 ### \[Sentence\]
 
